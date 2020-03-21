@@ -1,0 +1,39 @@
+body{
+	background-color: #41e533;
+}
+/*#logo {
+	background-color: #1c9d31;
+	text-align: center;
+	width: 20%;
+	margin-left: 45%;
+	padding-top: 1%;
+
+}*/
+.logoimg{
+
+}
+#backgroundTitle{
+	background-color: #49f21b;
+	height: 20%;
+	padding-top: 1%;
+}
+.Menu{
+	font-size: 20px;
+
+}
+.Menu #leftMenu {
+	margin-left: 20%;
+
+}
+.Menu #rightMenu {
+	margin-left: 10%;
+}
+.slogan{
+	text-align: center;
+	background-color: #17f504;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	border: 3px solid red;
+	color: red;
+    
+}

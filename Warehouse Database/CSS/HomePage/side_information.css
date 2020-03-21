@@ -1,0 +1,84 @@
+#filter{
+	margin-left: 81.5%;
+	margin-top: -53.5%;
+	width: 15%;
+	height: 70%;
+	background-color: #59b300;
+	padding-left: 1%;
+	padding-right: 1%;
+	padding-top: 0.5%;
+
+}
+#filter h1{
+	color: #264d00;
+	text-align: center;
+	border-bottom: 2px solid #01DF01;
+	border-top: 2px solid #01DF01;
+}
+#filter p{
+	padding-left: 5%;
+	
+}
+
+
+#information{
+	border: 3px solid green;
+	padding-bottom: 60%;
+}
+
+#boldp{
+	color: #264d00;
+font-weight: bold;
+font-size: 20px;
+
+}
+#smalltext{
+	font-size: 18px;
+}
+
+.blink {
+      animation: blinker 1s linear infinite;
+      color:  #264d00;
+      font-size: 30px;
+      font-weight: bold;
+      font-family: sans-serif;
+      }
+      @keyframes blinker {  
+      50% { opacity: 0; }
+      }
+      .blink-one {
+      animation: blinker-one 1s linear infinite;
+      }
+      @keyframes blinker-one {  
+      0% { opacity: 0; }
+      }
+      .blink-two {
+      animation: blinker-two 1.4s linear infinite;
+      }
+      @keyframes blinker-two {  
+      100% { opacity: 0; }
+      }
+
+#filter2{
+	margin-left: 81.5%;
+	margin-top: 5%;
+	width: 15%;
+	height: 30%;
+	background-color: #59b300;
+	padding-left: 1%;
+	padding-right: 1%;
+	padding-top: 0.5%;
+
+}
+
+#filter2 p{
+	padding-left: 5%;
+}
+#information2 {
+	border: 3px solid green;
+
+}
+
+
+
+
